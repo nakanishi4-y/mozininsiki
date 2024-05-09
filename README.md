@@ -1,2 +1,2 @@
 # mozininsiki
-ninsikiaaaaaaaaa
+ninsikiaaaaaaaaaa
