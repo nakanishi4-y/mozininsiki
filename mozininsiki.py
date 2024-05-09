@@ -1,1 +1,1 @@
-100 * 5 + 40 * 8ajjaaaa
+100 * 5 + 40 * 8ajjaaanakanishi
